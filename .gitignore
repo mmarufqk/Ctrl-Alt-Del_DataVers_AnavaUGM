@@ -1,5 +1,9 @@
+# file penting
 data/
+submissions/
 notebooks/catboost_info/
+
+# file ga terlalu penting
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
