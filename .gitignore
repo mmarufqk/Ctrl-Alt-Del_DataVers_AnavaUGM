@@ -1,6 +1,6 @@
 # file penting
-data/
-submissions/
+data/*.csv
+submissions/*.csv
 notebooks/catboost_info/
 
 # file ga terlalu penting
